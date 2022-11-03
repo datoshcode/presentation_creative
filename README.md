@@ -7,4 +7,4 @@
 - Автор розробки вебсайту: Андрій Овчаров;
 - E-mail автора: datoshcode@gmail.com;
 - Дата розробки вебсайту: 07.06.2022.
-- [Переглянути вебсайт]()
+- [Переглянути вебсайт](https://datoshcode.github.io/presentation_creative/)
